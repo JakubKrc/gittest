@@ -41,6 +41,8 @@ function App() {
 
       <Button type='button' style={{ fontSize : '200%', fontWeight : 'bold', color : 'red'}} label='Stlac' icon='pi pi-check' onClick={onButtonClick}/>
 
+      <span> commit 1 </span>
+
       <KuboviaBrowsePrimeReact />
     </>
   )

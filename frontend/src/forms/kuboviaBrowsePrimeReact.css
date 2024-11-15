@@ -1,0 +1,17 @@
+
+/* CSS for hiding columns based on screen width */
+
+/* Hide columns on screens smaller than 768px (small devices) */
+@media (max-width: 768px) {
+    .hide-on-small {
+      display: none !important;
+    }
+  }
+  
+  /* Hide columns on screens smaller than 1024px (medium devices) */
+  @media (max-width: 1024px) {
+    .hide-on-medium {
+      display: none !important;
+    }
+  }
+  

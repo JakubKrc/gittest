@@ -1,0 +1,18 @@
+.contextMenuON {
+    display: block;
+    display: flex;
+    flex-direction: column;
+    width: 15rem;
+    z-index: 999;
+    position: fixed;
+    background-color: aqua;
+}
+
+.contextMenuOFF {
+    display:none;
+}
+
+.hr {
+    height: 0.2rem;
+    background-color: blueviolet;
+}

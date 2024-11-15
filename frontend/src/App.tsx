@@ -47,6 +47,8 @@ function App() {
 
       <span> commit 2 </span>
 
+      <span> commit 3 </span>
+
       <KuboviaBrowsePrimeReact />
     </>
   )

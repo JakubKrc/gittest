@@ -31,6 +31,7 @@ export default function KuboviaBrowsePrimeReact() {
             <Column field='id' header='ID' sortable/>
             <Column field='username' header='NAME' sortable />
             <Column field='email' header='EMAIL' headerStyle={{ display: 'block' }} sortable />
+            <Column field='fasdf' header='empty' headerStyle={{ display: 'block' }} sortable />
         </DataTable>
     );
 

@@ -37,11 +37,15 @@ function App() {
         <label htmlFor='inputT'>Name</label>
       </span>
 
+      <span> commit 2 </span>
+
       <br />
 
       <Button type='button' style={{ fontSize : '200%', fontWeight : 'bold', color : 'red'}} label='Stlac' icon='pi pi-check' onClick={onButtonClick}/>
 
       <span> commit 1 </span>
+
+      <span> commit 2 </span>
 
       <KuboviaBrowsePrimeReact />
     </>
